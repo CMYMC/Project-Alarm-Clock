@@ -1,4 +1,4 @@
-# Bluetooth Alarm Clock
+#  Alarm Clock
 
 ## 1. 개요
 
